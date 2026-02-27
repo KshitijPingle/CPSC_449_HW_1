@@ -1,0 +1,4 @@
+com\example\hw1\controller\BookController.class
+com\example\hw1\entity\Book.class
+com\example\hw1\Hw1Application.class
+com\example\hw1\repository.class
