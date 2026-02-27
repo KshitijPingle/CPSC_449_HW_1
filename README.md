@@ -1,10 +1,11 @@
-# H1 CPSC 449 : Backend Engineering HW 1
+# CPSC 449 : Backend Engineering HW 1
 By: Kshitij Pingle  
-This github repository is for my HW 1 code, I only coded inside BookController.Java  
-I have also attached screenshots from Postman to show the endpoints are working as expected.
+This GitHub repo is for my HW 1 code, I only coded inside BookController.Java  
+I have also attached screenshots from Postman to show the endpoints are working as expected.  
+
 **Note:** I put a whole lot of comments in my BookController.java because I have not used Java this much in 6 years, + I am brand new to streams and lambda expressions in Java
 
-## H2 Tasks Completed
+## Tasks Completed
 - Made a PUT endpoint to update books
 - Made a PATCH endpoint to partially update books
 - Made a DELETE endpoint to delete books
@@ -16,7 +17,6 @@ I have also attached screenshots from Postman to show the endpoints are working 
 1. PUT endpoint
 ![GET all Books](hw_1/hw_1_screenshots/GET_all_books.jpg)
 The above is a picture of all the books using a simple GET endpoint
-
 ![PUT one book](hw_1/hw_1_screenshots/PUT_endpoint.jpg)
 The above is an image of sending the updated book using the PUT endpoint
 
@@ -24,7 +24,6 @@ The above is an image of sending the updated book using the PUT endpoint
 2. PATCH endpoint
 ![PATCH one book](hw_1/hw_1_screenshots/PATCH_endpoint.jpg)
 The above is an image of sending one partially updated book using the PATCH endpoint
-
 ![GET books after PATCH](hw_1/hw_1_screenshots/GET_all_books_after_PATCH.jpg)
 The above is an image of all books after using the PATCH endpoint
 
